@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ウィドドの履歴書</title>
-    <link>/ja/</link>
+    <link>https://nswryan.github.io/ja/</link>
     <description>Recent content on ウィドドの履歴書</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nswryan.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

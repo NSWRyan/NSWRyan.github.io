@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/contact/</loc>
+    <loc>https://nswryan.github.io/en/contact/</loc>
   </url>
   
   <url>
-    <loc>/en/misc/</loc>
+    <loc>https://nswryan.github.io/en/misc/</loc>
   </url>
   
   <url>
-    <loc>/en/about/</loc>
+    <loc>https://nswryan.github.io/en/about/</loc>
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://nswryan.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="https://nswryan.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://nswryan.github.io/en/"
                 />
   </url>
   
