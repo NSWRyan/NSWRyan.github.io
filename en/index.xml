@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Widodo&#39;s resume.</title>
+    <link>https://nswryan.github.io/en/</link>
+    <description>Recent content on Widodo&#39;s resume.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://nswryan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://nswryan.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nswryan.github.io/en/contact/</guid>
+      <description>&lt;p&gt;If you have interesting project(s) that you want me to collaborate with, you can contact me on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;ryannswidodo@gmail.com&#34;&gt;ryannswidodo@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;linkedin: &lt;a href=&#34;https://www.linkedin.com/in/rnswidodo1/&#34;&gt;rnswidodo1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Personal information</title>
+      <link>https://nswryan.github.io/en/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nswryan.github.io/en/misc/</guid>
+      <description>&lt;h2 id=&#34;about-this-page&#34;&gt;About This Page&lt;/h2&gt;&#xA;&lt;p&gt;This page contains Widodo&amp;rsquo;s informal information, which you do not want to know. Or&amp;hellip; do you?&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;figure class=&#34;avatar&#34;&gt;&lt;img src=&#34;https://nswryan.github.io/photobaby.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I enjoy learning and exploring new stuffs, including new devices and technologies. I also love troubleshooting and fixing problems around me (excluding social problems :D). I spend my free time on learning new kanjis and creating interesting stuffs like DIY electronic devices, plastic models, and programs. I also love to play simulation and Real Time Strategies (RTS) games like SimCity, Age of Empires, Command and Conquer series, etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Widodo&#39;s resume</title>
+      <link>https://nswryan.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nswryan.github.io/en/about/</guid>
+      <description>&lt;h1 id=&#34;resume-of-ryan-nathanael-soenjoto-widodo-phd&#34;&gt;Resume of Ryan Nathanael Soenjoto Widodo, Ph.D.&lt;/h1&gt;&#xA;&lt;p&gt;Last updated on: January 23, 2025&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;figure class=&#34;avatar&#34;&gt;&lt;img src=&#34;https://nswryan.github.io/WidodoPhoto.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;A highly skilled Data Engineer with a PhD in Computer Science, specializing in big data storage and processing, data reduction schemes, and non-volatile memory. Over 2 years of hands-on experience in building scalable data pipelines using advanced ETL tools and cloud environments. Adept at leveraging academic research to develop innovative solutions that enhance data efficiency and performance. Eager to apply his extensive knowledge and technical skills to solve complex data challenges in a dynamic environment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
