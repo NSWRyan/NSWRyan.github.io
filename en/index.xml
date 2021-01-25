@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Widodo&#39;s resume.</title>
+    <link>/en/</link>
+    <description>Recent content on Widodo&#39;s resume.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contact/</guid>
+      <description> Email: ryannsw@osss.cs.tsukuba.ac.jp   </description>
+    </item>
+    
+    <item>
+      <title>Personal information</title>
+      <link>/en/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/misc/</guid>
+      <description>About This Page This page contains Widodo&amp;rsquo;s informal information, which you might not want to know. Only read this if you want to know me as a person.
+About Me  I enjoy learning and exploring new stuffs, including new devices and technologies. I also love troubleshooting and fixing problems around me (excluding social problems :D). I spend my free time on learning new kanjis and creating interesting stuffs like DIY electronic devices, plastic models, and programs.</description>
+    </item>
+    
+    <item>
+      <title>Widodo&#39;s resume</title>
+      <link>/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>About This Page This page contains formal information of Ryan Nathanael Soenjoto Widodo.
+About Me  Hello world! This is a resume page of Ryan Nathanael Soenjoto Widodo. In 1991, Widodo was born in a loving Indonesian Christian family of 4 persons. Widodo is currently pursuing PhD degree at University of Tsukuba under the guidance of Professor Kazuhiko Kato and Professor Hirotake Abe in Operating System and System Software (OSSS) Laboratory Operating System and System Software (OSSS) Laboratory.</description>
+    </item>
+    
+  </channel>
+</rss>
