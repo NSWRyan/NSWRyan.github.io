@@ -6,5 +6,34 @@
     <description>Recent content on ウィドドの履歴書</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://nswryan.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>その他</title>
+      <link>https://nswryan.github.io/ja/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nswryan.github.io/ja/misc/</guid>
+      <description>このページについて This page contains Widodo&amp;rsquo;s informal information, which you might not want to know. Only read this if you want to know me as a person.
+私について  I enjoy learning and exploring new stuffs, including new devices and technologies. I also love troubleshooting and fixing problems around me (excluding social problems :D). I spend my free time on learning new kanjis and creating interesting stuffs like DIY electronic devices, plastic models, and programs.</description>
+    </item>
+    
+    <item>
+      <title>ウィドドの履歴書</title>
+      <link>https://nswryan.github.io/ja/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nswryan.github.io/ja/about/</guid>
+      <description>About This Page This page contains formal information of Ryan Nathanael Soenjoto Widodo.
+About Me  Hello world! This is a resume page of Ryan Nathanael Soenjoto Widodo. In 1991, Widodo was born in a loving Indonesian Christian family of 4 persons. Widodo is currently pursuing PhD degree at University of Tsukuba under the guidance of Professor Kazuhiko Kato and Professor Hirotake Abe in Operating System and System Software (OSSS) Laboratory Operating System and System Software (OSSS) Laboratory.</description>
+    </item>
+    
+    <item>
+      <title>連絡先</title>
+      <link>https://nswryan.github.io/ja/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nswryan.github.io/ja/contact/</guid>
+      <description> メール: ryannsw@osss.cs.tsukuba.ac.jp   </description>
+    </item>
+    
   </channel>
 </rss>
