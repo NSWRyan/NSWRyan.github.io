@@ -4,44 +4,14 @@
   
   <url>
     <loc>https://nswryan.github.io/en/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://nswryan.github.io/ja/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nswryan.github.io/en/contact/"
-                />
   </url>
   
   <url>
     <loc>https://nswryan.github.io/en/misc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://nswryan.github.io/ja/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nswryan.github.io/en/misc/"
-                />
   </url>
   
   <url>
     <loc>https://nswryan.github.io/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://nswryan.github.io/ja/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nswryan.github.io/en/about/"
-                />
   </url>
   
   <url>
