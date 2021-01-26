@@ -24,7 +24,7 @@
 
     <body><div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto" href="https://nswryan.github.io//">Widodo&#39;s resume.</a>
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://nswryan.github.io/en/about">Widodo&#39;s resume.</a>
         <div class="navbar-nav flex-row flex-wrap justify-content-center">
             
                 
@@ -84,9 +84,7 @@
 <p>A: I pick those because I got the opportunity to apply for scholarships to study in those countries. The second reason is that these countries are some of the developed countries in Asia and I want to learn what makes these countries differ from other Asian countries like my home country. An additional reason is that those countries are quite close to my home country (Indonesia), such that I can visit my parents without making a hole in my wallet.</p>
 <p>Q: Your Korean sucks, why did not you learn Korean when you spent 2 years there?</p>
 <p>A: Given a fixed amount of time, I need to decide between learning a language and spending my time on research. Since I am not planning on staying in South Korea for longer than the period of master study (2 years), I thought it is better to spend my time on my research to increase my opportunity on continuing my study in other countries. More countries, more experience, &ldquo;more better&rdquo; right?</p>
-<p>Q: What have you learned from your journey?</p>
-<p>A: I learned many things. One of the most important things that I learned is that the way I interpret something is highly correlated with the amount of information that I have, which is why I did a lot of questionable decisions in the past.</p>
-<p>Q: No, I mean what have you learned after spending years in Indonesia, South Korea, and Japan?</p>
+<p>Q: What have you learned after spending years in Indonesia, South Korea, and Japan?</p>
 <p>A: I learned that I cannot judge people based on their nationality because common sense differs depending on the culture. Even with the same culture, some people of some demographic may have different common sense. In each country, I have met good people and bad people, thus in my opinion judging people just from popular beliefs (history books) is unwise.</p>
 <p>Q: Why do you like troubleshooting/engineering?</p>
 <p>A: As a kid, I had a lot of puzzle toys, including picture puzzles, block puzzles, and others. The one that intrigued me the most is one of the block puzzles that I had (<a href="https://www.youtube.com/watch?v=FMkFn6cFjWw">like this</a> because of the number of solutions that it has (other puzzles like picture puzzles only have 1 solution). I even wondered if it has more solution than the number of sides of the cubes, which is 6. Since then, I find that solving my problems and trying new solutions are fun.</p>
@@ -101,7 +99,16 @@
 <h3 id="opencv-pencil-touch">OpenCV pencil touch</h3>
 <p>Status: Completed (somehow).</p>
 <p>Description:</p>
-<p>Have you ever wish to use your pencil and use it to control your computer? Then, this project might be for you! This is a project that uses OpenCV, infrared camera (like Wiimote camera or CCTV camera), and printed circles. First, we attach the printed circles to each corner of a monitor (4 if you have a normal monitor). The camera is then aimed at a monitor screen and the user can use a pencil with a circle attached to it as a pointer to use as a mouse-like stylus. The magic behind it is OpenCV image processing. The OpenCV code processes the images from the camera, find the circles in the camera, and finally return the coordinates of those circles to a program. With these coordinates, we can know the position of the pencil relative to the monitor screen through some mathematic formulas. Finally, the program passed the coordinate as a mouse movement such that the user can control the computer using the pencil.</p>
+<p>This is a project that uses OpenCV, infrared camera (like Wiimote camera or CCTV camera), and printed circles to control your computer.</p>
+<p>Usage instruction:</p>
+<ol>
+<li>First, we attach the printed circles to each corner of a monitor (4 if you have a normal monitor).</li>
+<li>Aim the camera at the monitor screen.</li>
+<li>Attach a printed circle to a pencil.</li>
+<li>Run the program and use the pencil as a mouse to control the pointer.</li>
+</ol>
+<p>How it works:
+The magic behind it is OpenCV image processing. The OpenCV code processes the images from the camera, find the circles in the camera, and finally return the coordinates of those circles to a program. With these coordinates, we can know the position of the pencil relative to the monitor screen through some mathematic formulas. Finally, the program passed the coordinate as a mouse movement such that the user can control the computer using the pencil.</p>
 <p>The code is written in combination of C++ and C#. I will try to find the code and upload it to Github if I can find it.</p>
 <h3 id="mic-amplifier">Mic amplifier</h3>
 <p>Status: Completed.</p>
