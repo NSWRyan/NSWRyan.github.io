@@ -26,6 +26,7 @@
       <guid>https://nswryan.github.io/ja/about/</guid>
       <description>このページについて このページはウィドドの正式情報が書かれている。
 私について  こんにちは。このページはリャンナターナルソンジョトウィドドの履歴書である。1991年、ウィドドは4人の暖かいクリスチャンの家族で生まれた。ウィドドは今加藤和彦先生と阿部洋丈先生のご指導を受けていただい、博士として筑波大学のシステムソフトウェア研究室(OSSS) Laboratoryで勉強している。
+メール: ryannsw@osss.cs.tsukuba.ac.jp
 研究分野  Key-value storage・Key-Valueストレージ Persistent memory・不揮発性メモリ Big data・ビッグデータ Deduplication and compression・重複排除やデータ圧縮 Mobile cloud computing・モバイルクラウドコンピューティング  論文  Widodo, R. N., Lim, H., &amp;amp; Atiquzzaman, M. (2017). SDM: Smart deduplication for mobile cloud storage. Future Generation Computer Systems, 70, 64-73. Widodo, R. N., Lim, H., &amp;amp; Atiquzzaman, M. (2017). A new content-defined chunking algorithm for data deduplication in cloud storage. Future Generation Computer Systems, 71, 145-156.</description>
     </item>
     
