@@ -7,6 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://nswryan.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://nswryan.github.io/ja/qna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nswryan.github.io/ja/qna/</guid>
+      <description>面談の質問の対策。 Compression overhead データ圧縮はオーバーヘッドがあるのは否定しません。 なぜなら、データ圧縮はCPU計算時間の代わりに、 データ構造を換えて、データを小さくする技術からです。
+しかし、データ圧縮は場合によって利点があります。 例えば、ディスクのIOが遅い場合、 データ圧縮使えばシステムが早くなることはあります。
+HadoopStreamingとDistCP この2つのアプリはMapReduceアプリです。 しかし、データの読み書き方が違いです。 StreamingはinputFormatによって読み方が違います。 例えば、textInputFormatを使えば、1行ずつ読み書きます。 DistCPの場合1-blockずつ読み書きます。 そのため、DistCPのほうが速いと考えています。 また、Streamingは行の前に行番号を入れます。 textInputFormatを使えばサイズが大きくなります。 この実験ではtextInputFormatを基づいて、 customInputFormatをつかいます。 このcustomInputFormat行番号を入れなくて、 生のデータをかきます。 そのため、データサイズがDistCPと同じになります。
+2017年に何をやっています？ 帰国から奨学金を応募するため、色々な準備委が必要でした。
+ まず、はTOEFLです。 次は、受験のことです。 面談もあります。  私韓国で２年間帰国していませんでした。そのため、家族と時間を過ごしたかった。 今でも３年間ぐらい帰国していませんが、二年間前家族が会いに来ました。
+学生時代の経験: 生徒会役員をしました。 仕事内容は後輩達の授業について相談です。 後輩から授業でなにか不安やよく理解できない課題について問題 があったら私と他の役員と手伝って上げました。
+力を入れたこと： 私は買うより自分で作る方が好きです。 個人的なプロジェクトが多いだと思います。
+例えば、LEDで３D 画面のプレジェクトでした。 結果は失敗なんですが、今は理由やもう分かりました。 今時間と材料があればもう一度やりたいです。
+また他のプロジェクトもあります。 私のサイトでチェック出来ます。
+日本にある問題： 担当者卒業の後。 私日本に来たばかり、担当者が半年ぐらいいました。 資料について手続きや個人的な問題があったら、担当さんが手伝いました。 しかし、彼は卒業後、ほかの頼れる人がいなかったでした。 幸いは私は彼を卒業前に、日本語の授業を参加しました。 最低限な日本語で生活をしました。
+2年後は寮で住むことができなくなるので、 アパと探しをしました。 最初は友達からアパとを紹介してもらいました。 しかしその後は自分で資料や契約のことやりました。 そのときはとても心配しました。 なぜなら、私は日本語の授業参加ことがありましたが、 日本人と会話する機械はほとんどありませんでした。 結果的には私の担当者言ったとおりでした。 なんとか成る　でした。
+面白い話： 学士をするときある面白い
+背景： ３人友達とRabbitと言う組み込みデバイスをプログラミング宿題をするでした。 友達のコードはなかなか進まなかったので、私がコードのことを手伝いしました。 しかし、最後には私の点数だけ低でした。 友達は全員Aをもらいました。私だけB+をもらいました。</description>
+    </item>
+    
+    <item>
       <title>その他</title>
       <link>https://nswryan.github.io/ja/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,6 +48,17 @@
       <description>Ryan Nathanael Soenjoto Widodo’s 履歴書。 私について  こんにちは。このページはリャンナターナルソンジョトウィドドの履歴書です。1991年、ウィドドは4人の暖かいクリスチャンの家族で誕生しました。ウィドドは今加藤和彦先生と阿部洋丈先生のご指導を受けてながら、博士課程の学生として筑波大学のシステムソフトウェア研究室(OSSS) Laboratoryで勉強しています。
 メール: ryannsw@osss.cs.tsukuba.ac.jp
 研究分野  Key-value storage・Key-Valueストレージ Persistent memory・不揮発性メモリ Big data・ビッグデータ Deduplication and compression・重複排除やデータ圧縮 Mobile cloud computing・モバイルクラウドコンピューティング  論文  Widodo, R. N., Lim, H., &amp;amp; Atiquzzaman, M. (2017). SDM: Smart deduplication for mobile cloud storage. Future Generation Computer Systems, 70, 64-73. Widodo, R. N., Lim, H., &amp;amp; Atiquzzaman, M. (2017). A new content-defined chunking algorithm for data deduplication in cloud storage. Future Generation Computer Systems, 71, 145-156.</description>
+    </item>
+    
+    <item>
+      <title>ウィドドの履歴書</title>
+      <link>https://nswryan.github.io/ja/about2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nswryan.github.io/ja/about2/</guid>
+      <description>Ryan Nathanael Soenjoto Widodo’s 履歴書。 記入日: 13日 04月 2021年
+私について  こんにちは。このページはリャンナターナルソンジョトウィドドの履歴書です。1991年、ウィドドは4人の暖かいクリスチャンの家族で誕生しました。ウィドドは今加藤和彦先生と阿部洋丈先生のご指導を受けてながら、博士課程の学生として筑波大学のシステムソフトウェア研究室(OSSS) Laboratoryで勉強しています。
+個人情報    　      氏名 Ryan Nathanael Soenjoto Widodo   出身 インドネシア   生年月日 12日 08月 1991年   連絡先 ryannswidodo@gmail.com , ryannsw@osss.cs.tsukuba.ac.jp   電話番号 080-9553-0362    研究分野  Key-value storage・Key-Valueストレージ Persistent memory・不揮発性メモリ Big data・ビッグデータ Deduplication and compression・重複排除やデータ圧縮 Mobile cloud computing・モバイルクラウドコンピューティング  論文  Widodo, R.</description>
     </item>
     
     <item>
