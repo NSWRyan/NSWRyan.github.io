@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://nswryan.github.io/ja/qna/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nswryan.github.io/ja/misc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nswryan.github.io/en/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://nswryan.github.io/ja/misc/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nswryan.github.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
@@ -33,9 +15,7 @@
                 hreflang="ja"
                 href="https://nswryan.github.io/ja/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nswryan.github.io/ja/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -47,13 +27,21 @@
                 hreflang="ja"
                 href="https://nswryan.github.io/ja/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nswryan.github.io/ja/about2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://nswryan.github.io/ja/misc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nswryan.github.io/en/misc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://nswryan.github.io/ja/misc/"
+                />
+  </url><url>
     <loc>https://nswryan.github.io/ja/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -66,5 +54,4 @@
                 href="https://nswryan.github.io/ja/contact/"
                 />
   </url>
-  
 </urlset>

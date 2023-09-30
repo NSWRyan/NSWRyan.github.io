@@ -5,14 +5,15 @@
     <link>https://nswryan.github.io/en/</link>
     <description>Recent content on Widodo&#39;s resume.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nswryan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://nswryan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://nswryan.github.io/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nswryan.github.io/en/contact/</guid>
-      <description> Email: ryannsw@osss.cs.tsukuba.ac.jp   </description>
+      <description>If you have interesting project(s) that you want me to collaborate with, you can contact me on:
+Email: ryannswidodo@gmail.com linkedin: rnswidodo1 </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>https://nswryan.github.io/en/misc/</guid>
       <description>About This Page This page contains Widodo&amp;rsquo;s informal information, which you do not want to know. Or&amp;hellip; do you?
-About Me  I enjoy learning and exploring new stuffs, including new devices and technologies. I also love troubleshooting and fixing problems around me (excluding social problems :D). I spend my free time on learning new kanjis and creating interesting stuffs like DIY electronic devices, plastic models, and programs. I also love to play simulation and Real Time Strategies (RTS) games like SimCity, Age of Empires, Command and Conquer series, etc.</description>
+About Me I enjoy learning and exploring new stuffs, including new devices and technologies. I also love troubleshooting and fixing problems around me (excluding social problems :D). I spend my free time on learning new kanjis and creating interesting stuffs like DIY electronic devices, plastic models, and programs. I also love to play simulation and Real Time Strategies (RTS) games like SimCity, Age of Empires, Command and Conquer series, etc.</description>
     </item>
     
     <item>
@@ -31,8 +32,10 @@ About Me  I enjoy learning and exploring new stuffs, including new devices and t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nswryan.github.io/en/about/</guid>
-      <description>Resume of Ryan Nathanael Soenjoto Widodo Last updated on: May 6, 2021
-About Me  Hello world! This is a resume page of Ryan Nathanael Soenjoto Widodo. In 1991, Widodo was born in a loving Indonesian Christian family of 4 persons. Widodo is currently pursuing PhD degree at University of Tsukuba under the guidance of Professor Kazuhiko Kato and Professor Hirotake Abe in Operating System and System Software (OSSS) Laboratory Operating System and System Software (OSSS) Laboratory.</description>
+      <description>Resume of Ryan Nathanael Soenjoto Widodo, Ph.D. Last updated on: September 30, 2023
+About Me Hello world! This is a resume page of Ryan Nathanael Soenjoto Widodo. In 1991, Widodo was born in a loving Indonesian Christian family of 4 persons. Widodo received his Ph.D. in 2022 from the University of Tsukuba, Computer Science Department. Currently, Widodo is actively developing Data engineering tools in Rakuten Travel.
+Email: ryannsw@osss.cs.tsukuba.ac.jp
+Google Scholar: https://scholar.</description>
     </item>
     
   </channel>
