@@ -32,10 +32,24 @@ About Me I enjoy learning and exploring new stuffs, including new devices and te
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nswryan.github.io/en/about/</guid>
-      <description>Resume of Ryan Nathanael Soenjoto Widodo, Ph.D. Last updated on: September 30, 2023
-About Me Hello world! This is a resume page of Ryan Nathanael Soenjoto Widodo. In 1991, Widodo was born in a loving Indonesian Christian family of 4 persons. Widodo received his Ph.D. in 2022 from the University of Tsukuba, Computer Science Department. Currently, Widodo is actively developing Data engineering tools in Rakuten Travel.
+      <description>Resume of Ryan Nathanael Soenjoto Widodo, Ph.D. Last updated on: October 14, 2023
+About Me Hello world! This is a resume page of Ryan Nathanael Soenjoto Widodo. In 1991, Widodo was born in a loving Indonesian Christian family of 4 persons. Widodo received his Ph.D. in 2022 from the University of Tsukuba, Computer Science Department. Currently, Widodo is actively developing Data engineering tools in Rakuten Travel and during his free time.</description>
+    </item>
+    
+    <item>
+      <title>Widodo&#39;s resume</title>
+      <link>https://nswryan.github.io/en/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nswryan.github.io/en/cv/</guid>
+      <description>CV of Ryan Nathanael Soenjoto Widodo, Ph.D. Last updated on: October 14, 2023
+About Me An active and curious data engineer that excels in trouble shooting existing projects and building new projects from scratch.
 Email: ryannsw@osss.cs.tsukuba.ac.jp
-Google Scholar: https://scholar.</description>
+Google Scholar: https://scholar.google.com/citations?user=dKSR9zEAAAAJ&amp;amp;hl=en&amp;amp;authuser=1
+ORCID: https://orcid.org/0000-0003-3929-7377
+linkedin: https://www.linkedin.com/in/rnswidodo1/
+Research Interest Widodo has various research interest in Computer Science, including:
+Key-value storage Persistent memory Big data Deduplication and compression Mobile cloud computing Education Date University/Institute Major Degree Comments August 2009 ~ January 2013 Petra Christian University, Indonesia Electrical Engineering Bachelor of Engineering GPA 3.</description>
     </item>
     
   </channel>

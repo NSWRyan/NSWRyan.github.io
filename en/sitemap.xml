@@ -38,6 +38,18 @@
                 href="https://nswryan.github.io/en/about/"
                 />
   </url><url>
+    <loc>https://nswryan.github.io/en/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://nswryan.github.io/ja/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nswryan.github.io/en/cv/"
+                />
+  </url><url>
     <loc>https://nswryan.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
