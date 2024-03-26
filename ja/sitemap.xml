@@ -4,18 +4,6 @@
   <url>
     <loc>https://nswryan.github.io/ja/qna/</loc>
   </url><url>
-    <loc>https://nswryan.github.io/ja/cv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nswryan.github.io/en/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://nswryan.github.io/ja/cv/"
-                />
-  </url><url>
     <loc>https://nswryan.github.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
